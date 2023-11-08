@@ -5,12 +5,12 @@ It adds a unique design to the game and makes it enjoyable, It is a project born
 Try it out and let me know how I could improve it!
 
 ![Add-ons](https://i.imgur.com/CXrL4To.png)
-## [VHS](https://drive.google.com/file/d/1jrZ7zBAiJ6dA8w13tbIvCie5qC6vOEeU/view?usp=sharing)
+## [VHS](https://drive.google.com/file/d/1w9WwPCThvAFfBDdR6Myz7KhFW1Ji_NOx/view?usp=sharing)
 - It gives the perception of playing on a cathode ray tube television, it is highly recommended to use it when you want to have a different vision of the world. To use it you need to activate Fabula graphics
 
 ![CRT](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/401ae539197237caac13a922dd6ede2d8ce62703.png)
 
-# All Add-ons are present in the pack zip and are dependent on it, they cannot be played without it. To use the Add-ons you must place them on top of the main pack.
+**All Add-ons are present in the pack zip and are dependent on it, they cannot be played without it. To use the Add-ons you must place them on top of the main pack.**
 
 # Other Projects
 
@@ -27,12 +27,12 @@ Aggiunge uno stile unico al gioco e lo rende scorrevole, il progetto è nato per
 Provala e fammi sapere come potrei migliorarla!
 
 ![Add-ons](https://i.imgur.com/CXrL4To.png)
-## [VHS](https://drive.google.com/file/d/1jrZ7zBAiJ6dA8w13tbIvCie5qC6vOEeU/view?usp=sharing)
+## [VHS](https://drive.google.com/file/d/1w9WwPCThvAFfBDdR6Myz7KhFW1Ji_NOx/view?usp=sharing)
 - Dà la percezione di star giocando su un televisore a tubo catodico, è molto consigiliato usarlo quando si vuole avere una visione diversa del mondo. Per utilizzarlo bisogna attivare la grafica Fabula
 
 ![CRT](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/401ae539197237caac13a922dd6ede2d8ce62703.png)
 
-# Tutti gli Add-on sono presenti nella zip della pack e sono dipendenti da essa, non possono essere giocati senza. Per utilizzare gli Add-on bisogna metterli sopra la pack principale.
+**Tutti gli Add-on sono presenti nella zip della pack e sono dipendenti da essa, non possono essere giocati senza. Per utilizzare gli Add-on bisogna metterli sopra la pack principale.**
 
 # Altri Progetti
 
