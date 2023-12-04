@@ -16,7 +16,7 @@ Try it out and let me know how I could improve it!
 
 ![VHS](https://cdn.modrinth.com/data/bkYQqS6M/images/41f385c07337f6acc7e09b2d375a7dc6f5aae747.png)
 
-# All Add-ons are present in the pack zip and are dependent on it, they cannot be played without it. To use the Add-ons you must place them on top of the main pack.**
+# All Add-ons are present in the pack zip and are dependent on it, they cannot be played without it. To use the Add-ons you must place them on top of the main pack.
 
 # Other Projects
 
@@ -44,7 +44,7 @@ Provala e fammi sapere come potrei migliorarla!
 
 ![VHS](https://cdn.modrinth.com/data/bkYQqS6M/images/41f385c07337f6acc7e09b2d375a7dc6f5aae747.png)
 
-# Tutti gli Add-on sono presenti nella zip della pack e sono dipendenti da essa, non possono essere giocati senza. Per utilizzare gli Add-on bisogna metterli sopra la pack principale.**
+# Tutti gli Add-on sono presenti nella zip della pack e sono dipendenti da essa, non possono essere giocati senza. Per utilizzare gli Add-on bisogna metterli sopra la pack principale.
 
 # Altri Progetti
 
