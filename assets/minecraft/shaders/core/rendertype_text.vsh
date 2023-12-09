@@ -53,7 +53,7 @@ void main() {
 		pos -= vec3(0.0,3.0,0.0);
 	}
 
-	        /** Recolor (Remove up to Recolor End if unnecessary)**/
+	        // Recolor (Remove up to Recolor End if unnecessary)
         if(length(Color.rgb - vec3(0.501, 1.0, 0.125)) < 0.002) {
             vertexColor = vec4(0.57, 0.86, 0.41, 1); // text (usually green)
         }
