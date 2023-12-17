@@ -9,6 +9,8 @@ Try it out and let me know how I could improve it!
 ![Samotracia](https://cdn.modrinth.com/data/bkYQqS6M/images/63e42ba3c10951ab66e5e6dd0d4c8d05206c00e0.png)
 ![Samotracia](https://cdn.modrinth.com/data/bkYQqS6M/images/2f405bf42f7de64063000fe2039b46f801a15bf7.png)
 ![Samotracia](https://cdn.modrinth.com/data/bkYQqS6M/images/b2533b3be2ca07e3deb165bc50504c05981011cd.png)
+![Samotracia](https://cdn.modrinth.com/data/bkYQqS6M/images/e9eaffca0681639f291219528cd8e372bb4961bf.png)
+![Samotracia](https://cdn.modrinth.com/data/bkYQqS6M/images/d2878d279de8f7b6c44d86554bf7d97a4c1823e5.png)
 
 ![Add-ons](https://i.imgur.com/CXrL4To.png)
 ## [VHS](https://drive.google.com/file/d/1w9WwPCThvAFfBDdR6Myz7KhFW1Ji_NOx/view?usp=sharing)
@@ -26,34 +28,11 @@ Try it out and let me know how I could improve it!
     </p>
 </a>
 
-![Samotracia](https://i.imgur.com/RnDNObj.png)
-
-Samotracia è una resource pack basata su una palette di 64 colori.
-Aggiunge uno stile unico al gioco e lo rende scorrevole, il progetto è nato per la necessità di avere una pack esteticamente gradevole che si basasse su questo bellissimo numero di colori. Rende il gioco più semplice alla vista senza divenire una 8x o minore, il gioco ha un'aspetto più calmo e accogliente, come i vecchi giochi sul tubo catodico. Questa pack si gode al massimo delle sue possibilità abilitando la grafica fabulose.
-Provala e fammi sapere come potrei migliorarla!
-
-![Samotracia](https://cdn.modrinth.com/data/bkYQqS6M/images/eb91b9d3dac86c4ade47a25da23ecd7a8a9a088b.png)
-![Samotracia](https://cdn.modrinth.com/data/bkYQqS6M/images/956b36e438020dc56a4787387d780fae02ea5baf.png)
-![Samotracia](https://cdn.modrinth.com/data/bkYQqS6M/images/63e42ba3c10951ab66e5e6dd0d4c8d05206c00e0.png)
-![Samotracia](https://cdn.modrinth.com/data/bkYQqS6M/images/2f405bf42f7de64063000fe2039b46f801a15bf7.png)
-![Samotracia](https://cdn.modrinth.com/data/bkYQqS6M/images/b2533b3be2ca07e3deb165bc50504c05981011cd.png)
-
-![Add-ons](https://i.imgur.com/CXrL4To.png)
-## [VHS](https://drive.google.com/file/d/1w9WwPCThvAFfBDdR6Myz7KhFW1Ji_NOx/view?usp=sharing)
-- Dà la percezione di star giocando su un televisore a tubo catodico, è molto consigiliato usarlo quando si vuole avere una visione diversa del mondo. Per utilizzarlo bisogna attivare la grafica Fabula
-
-![VHS](https://cdn.modrinth.com/data/bkYQqS6M/images/41f385c07337f6acc7e09b2d375a7dc6f5aae747.png)
-
-# Tutti gli Add-on sono presenti nella zip della pack e sono dipendenti da essa, non possono essere giocati senza. Per utilizzare gli Add-on bisogna metterli sopra la pack principale.
-
-# Altri Progetti
-
-<a href="https://modrinth.com/resourcepack/azzurra">
+<a href="https://modrinth.com/resourcepack/achromatopsia">
     <p align="center">
-        <img src="https://i.imgur.com/R8KRwEq.png" alt="Azzurra" width="1200"/> 
+        <img src="https://i.imgur.com/KZR4I9G.png" alt="achromatopsía" width="1200"/> 
     </p>
 </a>
-
 
 # Credits:
 ### Kerrie Lake for the [palette](https://lospec.com/palette-list/resurrect-64)
