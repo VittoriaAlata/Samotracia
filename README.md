@@ -23,11 +23,21 @@ Try it out and let me know how I could improve it!
 # Other Projects
 
 
-<a href="https://modrinth.com/resourcepack/verno">
+[//]: # (
+ <a href="https://modrinth.com/resourcepack/verno">
     <p align="center">
         <img src="https://i.imgur.com/ZPtJb5o.png" alt="achromatopsía" width="1200"/> 
     </p>
 </a>
+)
+
+[//]: # (
+ <a href="https://modrinth.com/resourcepack/verno">
+    <p align="center">
+        <img src="https://i.imgur.com/7dg2Z3N.png" alt="achromatopsía" width="1200"/> 
+    </p>
+</a>
+)
 
 <a href="https://modrinth.com/resourcepack/azzurra">
     <p align="center">
@@ -35,11 +45,13 @@ Try it out and let me know how I could improve it!
     </p>
 </a>
 
+[//]: # (
 <a href="https://modrinth.com/resourcepack/achromatopsia">
     <p align="center">
         <img src="https://i.imgur.com/KZR4I9G.png" alt="achromatopsía" width="1200"/> 
     </p>
 </a>
+)
 
 # Credits:
 ### Kerrie Lake for the [palette](https://lospec.com/palette-list/resurrect-64)
