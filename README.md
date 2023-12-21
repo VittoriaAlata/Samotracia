@@ -22,6 +22,13 @@ Try it out and let me know how I could improve it!
 
 # Other Projects
 
+
+<a href="https://modrinth.com/resourcepack/verno">
+    <p align="center">
+        <img src="https://i.imgur.com/ZPtJb5o.png" alt="achromatopsía" width="1200"/> 
+    </p>
+</a>
+
 <a href="https://modrinth.com/resourcepack/azzurra">
     <p align="center">
         <img src="https://i.imgur.com/R8KRwEq.png" alt="Azzurra" width="1200"/> 
