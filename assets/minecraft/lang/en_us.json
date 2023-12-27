@@ -1,10 +1,10 @@
 {
   "menu.modded": " (Modded, §7Samotracia§r)",
-  "debug.prefix": "§r§3|Debug§r §7Samotracia v1.11-alpha.0§r >>",
-  "title.multiplayer.other": "Multiplayer 3rd-party Server, Samotracia v1.11-alpha.0",
-  "title.credits": "§7Samotracia v1.11-alpha.0, §rCopyright Mojang AB. Do not distribute!",
-  "title.multiplayer.lan": "Multiplayer (LAN), Samotracia v1.11-alpha.0",
-  "title.multiplayer.realms": "Multiplayer (Realms), Samotracia v1.11-alpha.0",
-  "title.singleplayer": "Singleplayer, Samotracia v1.11-alpha.0",
-  "menu.game": "Samotracia v1.11-alpha.0"
+  "debug.prefix": "§r§3|Debug§r §7Samotracia v1.12.0§r >>",
+  "title.multiplayer.other": "Multiplayer 3rd-party Server, Samotracia v1.12.0",
+  "title.credits": "§7Samotracia v1.12.0, §rCopyright Mojang AB. Do not distribute!",
+  "title.multiplayer.lan": "Multiplayer (LAN), Samotracia v1.12.0",
+  "title.multiplayer.realms": "Multiplayer (Realms), Samotracia v1.12.0",
+  "title.singleplayer": "Singleplayer, Samotracia v1.12.0",
+  "menu.game": "Samotracia v1.12.0"
 }
