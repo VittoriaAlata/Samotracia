@@ -1,4 +1,14 @@
-![Samotracia](https://i.imgur.com/RnDNObj.png)
+<div align="center">
+    <h1>
+       <img alt="Samotracia" src="https://i.imgur.com/RnDNObj.png">
+    </h1>
+       <a href="https://github.com/VittoriaAlata/Samotracia"><img alt="GitHub release" src="https://img.shields.io/github/v/release/VittoriaAlata/Samotracia?style=social&label=latest&link=https://github.com/VittoriaAlata/Samotracia">
+       <a href="https://modrinth.com/resourcepack/samotracia"><img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/bkYQqS6M?style=social&logo=modrinth&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Fsamotracia">
+       <a href=https://github.com/VittoriaAlata/samotracia/issues><img alt="Issues" src="https://img.shields.io/github/issues/VittoriaAlata/Samotracia?style=social&label=Issues&link=https://github.com/VittoriaAlata/Samotracia">
+    </a>
+</div>
+
+---  
 
 Samotracia is a 64 palette based resource pack.
 It adds a unique design to the game and makes it enjoyable, It is a project born out of the need to have an aesthetically pleasing pack that would be based on this beautiful number of colors. It makes the game easier to the eye without becoming an 8x or less, the game has a calmer and more welcoming look, like the old CRT games. This pack is enjoyed to the fullest by enabling fabulous graphics. 
