@@ -13,6 +13,51 @@ void main() {
     if (color.a == 0.0) {
         discard;
     }
+        if (color.r == 153/255.0 && color.g == 153/255.0 && color.b == 153/255.0 && color.a == 1) {
+color = vec4(0.0, 0.0, 0.0, 0.0); //Loading World Screen Chunks Structure Starts #999999
+}
+    if (color.r == 95/255.0 && color.g == 97/255.0 && color.b == 145/255.0 && color.a == 1) {
+color = vec4(0.0, 0.0, 0.0, 0.0); //Loading World Screen Chunks Structure References #5F6191
+}
+    if (color.r == 128/255.0 && color.g == 178/255.0 && color.b == 82/255.0 && color.a == 1) {
+color = vec4(0.0, 0.0, 0.0, 0.0); //Loading World Screen Chunks Biomes #80B252
+}
+    if (color.r == 209/255.0 && color.g == 209/255.0 && color.b == 209/255.0 && color.a == 1) {
+color = vec4(0.0, 0.0, 0.0, 0.0); //Loading World Screen Chunks Noise #D1D1D1
+}
+    if (color.r == 114/255.0 && color.g == 104/255.0 && color.b == 9/255.0 && color.a == 1) {
+color = vec4(0.0, 0.0, 0.0, 0.0); //Loading World Screen Chunks Surface #726809
+}
+    if (color.r == 109/255.0 && color.g == 102/255.0 && color.b == 92/255.0 && color.a == 1) {
+color = vec4(0.0, 0.0, 0.0, 0.0); //Loading World Screen Chunks Carvers #6D665C
+}
+    if (color.r == 48/255.0 && color.g == 53/255.0 && color.b == 114/255.0 && color.a == 1) {
+ color = vec4(0.0, 0.0, 0.0, 0.0); //Loading World Screen Chunks Liquid Carvers #303572
+}
+    if (color.r == 33/255.0 && color.g == 198/255.0 && color.b == 0/255.0 && color.a == 1) {
+color = vec4(0.0, 0.0, 0.0, 0.0); //Loading World Screen Chunks Features #21C600
+}
+    if (color.r == 204/255.0 && color.g == 204/255.0 && color.b == 204/255.0 && color.a == 1) {
+color = vec4(0.0, 0.0, 0.0, 0.0); //Loading World Screen Chunks Light #CCCCCC
+}
+    if (color.r == 242/255.0 && color.g == 96/255.0 && color.b == 96/255.0 && color.a == 1) {
+color = vec4(0.0, 0.0, 0.0, 0.0); //Loading World Screen Chunks Spawn #F26060
+}
+    if (color.r == 238/255.0 && color.g == 238/255.0 && color.b == 238/255.0 && color.a == 1) {
+color = vec4(0.0, 0.0, 0.0, 0.0); //Loading World Screen Chunks Heightmaps #EEEEEE
+}
+    if (color.r == 255/255.0 && color.g == 224/255.0 && color.b == 160/255.0 && color.a == 1) {
+color = vec4(0.0, 0.0, 0.0, 0.0); //Loading World Screen Chunks 1.20 color #ffe0a0
+}
+if (color.r == 0/255.0 && color.g == 0/255.0 && color.b == 0/255.0 && color.a == 1) {
+color = vec4(0.0, 0.0, 0.0, 0.0); //Isolating Black Line Scroll Bar & Advancement Lines & Loading World Screen Chunks
+}
+if (color.r == 160/255.0 && color.g == 160/255.0 && color.b == 160/255.0 && color.a == 1) {
+color = vec4(0.0, 0.0, 0.0, 0.0); //Isolating Black and White UI
+}
+if (color.r == 255/255.0 && color.g == 255/255.0 && color.b == 255/255.0 && color.a == 1) {
+color = vec4(0.0, 0.0, 0.0, 0.0); //Isolating Black and White UI
+}
     if (distance(color.rgb, vec3(16 / 255.0)) < 0.01) {
         vec4 textColor = mix(vec4(1), vertexColor, 0.0);
         vec4 backgroundColor = vertexColor;
