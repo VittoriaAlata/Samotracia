@@ -30,6 +30,16 @@ Try it out and let me know how I could improve it!
 
 # All Add-ons are present in the pack zip and are dependent on it, they cannot be played without it. To use the Add-ons you must place them on top of the main pack.
 
+# Languages:
+## English
+## Italiano
+## Française
+## Русский
+
+![](https://i.imgur.com/wtmHnY3.png)
+
+# [Samotracia Database & SHA256 checksums](https://docs.google.com/spreadsheets/d/1Pz5cTg8MHDX5HHlgpCAouVf3tGhlBGRc6fRmzImVcKU/edit?usp=drivesdk)
+
 # Other Projects
 
 
