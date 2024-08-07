@@ -26,7 +26,7 @@ bool isAt(int offset, int vID, int pos) {
 void main() {
 	vec3 pos = Position;
 
-    vertexDistance = fog_distance(ModelViewMat, IViewRotMat * Position, FogShape);
+    vertexDistance = fog_distance(Position, FogShape);
     vertexColor = Color;
     texCoord0 = UV0;
 	
