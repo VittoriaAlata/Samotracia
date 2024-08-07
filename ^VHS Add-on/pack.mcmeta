@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 18,
+    "supported_formats": {
+            "min_inclusive": 18,
+            "max_inclusive": 24
+    },
+    "description": "§9VHS§r                                   §c§l§n§oPut on top of SAMOTRACIA§r"
+  }
+}
