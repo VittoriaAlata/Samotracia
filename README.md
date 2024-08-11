@@ -23,10 +23,10 @@ Try it out and let me know how I could improve it!
 ![Samotracia](https://cdn.modrinth.com/data/bkYQqS6M/images/d2878d279de8f7b6c44d86554bf7d97a4c1823e5.png)
 
 ![Add-ons](https://i.imgur.com/CXrL4To.png)
-## [VHS](https://drive.google.com/file/d/1w9WwPCThvAFfBDdR6Myz7KhFW1Ji_NOx/view?usp=sharing)
+## VHS
 - It gives the perception of playing on a cathode ray tube television, it is highly recommended to use it when you want to have a different vision of the world. To use it you need to activate Fabula graphics
 
-![VHS](https://cdn.modrinth.com/data/bkYQqS6M/images/41f385c07337f6acc7e09b2d375a7dc6f5aae747.png)
+![VHS](https://i.imgur.com/DntBww0.gif)
 
 # All Add-ons are present in the pack zip and are dependent on it, they cannot be played without it. To use the Add-ons you must place them on top of the main pack.
 
