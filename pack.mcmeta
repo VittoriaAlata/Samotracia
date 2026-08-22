@@ -1,10 +1,8 @@
 {
     "pack": {
-        "pack_format": 15,
-        "supported_formats": {
-            "min_inclusive": 3,
-            "max_inclusive": 24
-        },
-        "description": "§5SAMOTRACIA                        §8§o© Vittoria 2023-2024§r"
+        "pack_format": 96,
+        "min_format": 88.0,
+        "max_format": 96.0,
+        "description": "§5SAMOTRACIA                        §8§o© Vittoria 2023-2026§r"
     }
 }
