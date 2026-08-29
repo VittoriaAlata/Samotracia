@@ -3,8 +3,8 @@
 # spans until the end of the line
 
 # Global options
-pack_directory = 'C:\Users\pierl\Desktop\Samotracia'
-output_file_path = 'C:\Users\pierl\Desktop\Samotracia.zip'
+pack_directory = '/home/pierluigi/Documenti/GitHub/Samotracia/'
+output_file_path = '/home/pierluigi/Documenti/GitHub/Samotracia/Samotracia.zip'
 recompress_compressed_files = true
 zip_compression_iterations = 5
 automatic_minecraft_quirks_detection = true
