@@ -12,27 +12,31 @@ layout(std140) uniform SamplerInfo {
 
 layout(location = 0) out vec4 fragColor;
 
-const float noiseBlockSize = 3.0; // dimensione in pixel di ogni "blocco" di rumore - alza per grana più grossa
+// Matrice Bayer 4x4 normalizzata
+const float bayer4x4[16] = float[](
+     0.0/16.0,  8.0/16.0,  2.0/16.0, 10.0/16.0,
+    12.0/16.0,  4.0/16.0, 14.0/16.0,  6.0/16.0,
+     3.0/16.0, 11.0/16.0,  1.0/16.0,  9.0/16.0,
+    15.0/16.0,  7.0/16.0, 13.0/16.0,  5.0/16.0
+);
 
-float pseudoNoise(vec2 coord) {
-    return fract(sin(dot(coord, vec2(12.9898, 78.233))) * 43758.5453);
-}
+const vec3 LEVELS = vec3(7.0, 7.0, 3.0); // 8, 8, 4 gradini (max index = N-1)
 
 void main() {
-    vec2 halfSize = InSize * 0.5;
-    vec2 steppedCoord = texCoord;
-    steppedCoord.x = float(int(steppedCoord.x * halfSize.x)) / halfSize.x;
-    steppedCoord.y = float(int(steppedCoord.y * halfSize.y)) / halfSize.y;
+    // 1. Pixelation (Risoluzione dimezzata)
+    vec2 halfRes = InSize * 0.5;
+    vec2 bigPixelCoord = floor(texCoord * halfRes);
 
-    vec4 color = texture(InSampler, steppedCoord);
+    // Campionamento singolo
+    vec4 color = texture(InSampler, bigPixelCoord / halfRes);
 
-    vec2 noiseCoord = floor(gl_FragCoord.xy / noiseBlockSize);
-    float threshold = pseudoNoise(noiseCoord) - 0.5; // centrato su 0
-    color.rgb += threshold * vec3(1.0 / 8.0, 1.0 / 8.0, 1.0 / 4.0); // = un gradino di quantizzazione, non di più
+    // 2. Indexing Bayer ultra-rapido con operatori bitwise/modulo su interi
+    ivec2 p = ivec2(bigPixelCoord) & 3; // Equivalent a % 4, ma più veloce in hardware
+    float bayerValue = bayer4x4[p.y * 4 + p.x] - 0.5;
 
-    float r = float(int(color.r * 8.0)) / 8.0;
-    float g = float(int(color.g * 8.0)) / 8.0;
-    float b = float(int(color.b * 4.0)) / 4.0;
+    // 3. Dithering e Quantizzazione Vettoriale diretta (senza separare R, G, B)
+    vec3 dithered = color.rgb + (bayerValue / LEVELS);
+    vec3 quantized = floor(dithered * LEVELS + 0.5) / LEVELS;
 
-    fragColor = vec4(r, g, b, 1.0);
+    fragColor = vec4(clamp(quantized, 0.0, 1.0), color.a);
 }
