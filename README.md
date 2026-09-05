@@ -3,7 +3,7 @@
        <img alt="Samotracia" src="https://i.imgur.com/RnDNObj.png">
     </h1>
        <a href="https://github.com/VittoriaAlata/Samotracia"><img alt="GitHub release" src="https://img.shields.io/github/v/release/VittoriaAlata/Samotracia?style=social&label=latest&link=https://github.com/VittoriaAlata/Samotracia">
-       <a href="https://modrinth.com/resourcepack/samotracia"><img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/bkYQqS6M?style=social&logo=modrinth&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Fsamotracia">
+       <a href="https://modrinth.com/resourcepack/samotracia"><img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/qNp0FVtV?style=social&logo=modrinth&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Fsamotracia">
        <a href=https://github.com/VittoriaAlata/samotracia/issues><img alt="Issues" src="https://img.shields.io/github/issues/VittoriaAlata/Samotracia?style=social&label=Issues&link=https://github.com/VittoriaAlata/Samotracia">
     </a>
 </div>
@@ -26,19 +26,22 @@ Try it out and let me know how I could improve it!
 ## VHS
 - It gives the perception of playing on a cathode ray tube television, it is highly recommended to use it when you want to have a different vision of the world. To use it you need to activate Fabula graphics
 
+**From Samotracia 1.14.0 the Add-on are insert from default in the resourcepack and do not need any special setting on.**
+
 ![VHS](https://i.imgur.com/DntBww0.gif)
 
-# All Add-ons are present in the pack zip and are dependent on it, they cannot be played without it. To use the Add-ons you must place them on top of the main pack.
+All Add-ons are present in the pack zip and are dependent on it, they cannot be played without it. To use the Add-ons you must place them on top of the main pack.
+
 
 # Languages:
-## English
-## Italiano
-## Française
-## Русский
+English
+Italiano
+Française
+Русский
 
 ![](https://i.imgur.com/wtmHnY3.png)
 
-# [Samotracia Database & SHA256 checksums](https://docs.google.com/spreadsheets/d/1Pz5cTg8MHDX5HHlgpCAouVf3tGhlBGRc6fRmzImVcKU/edit?usp=drivesdk)
+[Samotracia Database & SHA256 checksums](https://docs.google.com/spreadsheets/d/1Pz5cTg8MHDX5HHlgpCAouVf3tGhlBGRc6fRmzImVcKU/edit?usp=sharing)
 
 # Other Projects
 
@@ -51,28 +54,14 @@ Try it out and let me know how I could improve it!
 </a>
 )
 
-[//]: # (
- <a href="https://modrinth.com/resourcepack/verno">
-    <p align="center">
-        <img src="https://i.imgur.com/7dg2Z3N.png" alt="achromatopsía" width="1200"/> 
-    </p>
-</a>
-)
 
-<a href="https://modrinth.com/resourcepack/azzurra">
-    <p align="center">
-        <img src="https://i.imgur.com/R8KRwEq.png" alt="Azzurra" width="1200"/> 
-    </p>
-</a>
-
-[//]: # (
 <a href="https://modrinth.com/resourcepack/achromatopsia">
     <p align="center">
         <img src="https://i.imgur.com/KZR4I9G.png" alt="achromatopsía" width="1200"/> 
     </p>
 </a>
-)
+
 
 # Credits:
-### Kerrie Lake for the [palette](https://lospec.com/palette-list/resurrect-64)
-### Vittoria for [shaders](https://modrinth.com/resourcepack/azzurra)
+Kerrie Lake for the [palette](https://lospec.com/palette-list/resurrect-64)  
+Vittoria for [shaders](https://modrinth.com/resourcepack/azzurra)
